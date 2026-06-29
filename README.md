@@ -7,4 +7,4 @@ Setup Commands:
    pip install -r requirements.txt
 Run Command:
 python app.py
-GitHub Repository URL:
+GitHub Repository URL:https://github.com/NinoNadiradze2026/Project_Python
